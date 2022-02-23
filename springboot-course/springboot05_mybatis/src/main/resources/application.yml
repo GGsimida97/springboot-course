@@ -1,0 +1,8 @@
+#配置数据库连接的相关信息
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/wangjf
+      username: root
+      password: wang1997

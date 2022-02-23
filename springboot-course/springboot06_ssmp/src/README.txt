@@ -1,0 +1,3 @@
+本项目没有利用mybatis-plus
+我们利用PageHelper实现分页功能
+实体类为ProductInfo

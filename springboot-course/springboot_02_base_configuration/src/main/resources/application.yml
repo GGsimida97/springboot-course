@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: info
+server:
+  port: 8080
+  servlet:
+    context-path: /springboot
+province: Beijing
+
+student:
+  name: 张三
+
